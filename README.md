@@ -3,26 +3,26 @@ An NPM package that lets you reflect existing webpages onto your own page.
 
 ## Install
 ```cli
-$ npm install mirror
+$ npm install express-mirror --save
 ```
 
 Install globally
 ```cli
-$ npm install mirror -g
+$ npm install express-mirror -g
 ```
 
 Install as project:
 ```cli
-$ npm install mirror --save
+$ npm install express-mirror --save
 ```
 
 ## Example
 ```cli
-$ npm install mirror --save
+$ npm install express-mirror --save
 ```
 
 ```javascript
-let mirror = require("mirror");
+let mirror = require("express-mirror");
 ```
 
 ```javascript
